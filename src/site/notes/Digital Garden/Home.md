@@ -5,3 +5,5 @@
 
 # Welcome to my digital garden
 
+
+[[Digital Garden/Home|]]
