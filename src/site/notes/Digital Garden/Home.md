@@ -6,4 +6,4 @@
 # Welcome to my digital garden
 
 
-[[Digital Garden/Home|]]
+[[Games/Time Line|Time Line]]
